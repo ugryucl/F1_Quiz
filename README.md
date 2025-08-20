@@ -11,6 +11,6 @@ Bu proje, **C# (WinForms) ve SQL Server** kullanılarak geliştirilmiş bir **F1
 ## 💾 Kurulum
 1. Projeyi klonlayın:  
 ```bash
-git clone https://github.com/KULLANICI_ADIN/F1_Quiz.git
+git clone https://github.com/ugryucl/F1_Quiz.git
 
 Bu projeyi çalıştırmadan önce f1quiz.sql dosyasını kendi SQL Server’ınıza import edin ve connection string’i kendi bilgisayarınıza göre ayarlayın.
