@@ -13,4 +13,4 @@ Bu proje, **C# (WinForms) ve SQL Server** kullanılarak geliştirilmiş bir **F1
 ```bash
 git clone https://github.com/ugryucl/F1_Quiz.git
 
-Bu projeyi çalıştırmadan önce f1.bacpac dosyasını kendi SQL Server’ınıza import edin ve visual studio içerisinde sql connection'ı kendi bilgisayarınıza göre ayarlayın.
+Bu projeyi çalıştırmadan önce f1.bacpac dosyasını kendi SQL Server’ınıza import edin ve Connection String'i kendi veritabanınıza göre ayarlayın.
